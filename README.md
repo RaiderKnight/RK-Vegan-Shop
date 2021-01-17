@@ -4,11 +4,13 @@ https://github.com/vinfamy/LifePlay
 
 
 ### 1- rk_VeganShop  : 
-Add options to buy/eat vegan meals at different places around the city.
+Add options to buy/eat vegan meals at different places around the city.  
+8 vegan meals to choose.  
+Contain 3 scenes.  
 
 
 ### Module requirements
-None
+At least LifePlay 3.18
 
 
 ### Module conflict
@@ -24,7 +26,7 @@ c:\..\LifePlay\Content\Modules\rk_VeganShop
 
 NOT
 
-c:\..\LifePlay\Content\Modules\rk_VeganShop\rk_VeganShop
+c:\..\LifePlay\Content\Modules\RK-Vegan-Shop\rk_VeganShop
 
 After the mod have been installed, make sure the mod is active in the Mod Manager. 
 
