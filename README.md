@@ -2,7 +2,9 @@
 <p>Module for the game LifePlay</p>
 <p>https://github.com/vinfamy/LifePlay</p>
 <br>
-<h3>rk_VeganShop  version(1.0):</h3> 
+<h3>rk_VeganShop :</h3>
+<p>Version: 1.0.1</p>
+<br>
 <p>Add options to buy/eat vegan meals at different places around the city.</p>
 <p>8 vegan meals to choose.</p>
 <p>Contain 4 scenes.</p>
